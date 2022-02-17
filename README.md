@@ -1,9 +1,8 @@
-<div text-align="center" align="center">
-## Olá 👋 Me chamo Ítalo Braga e estou começando nesse mundo do Desenvolvimento Web(Front-End).
-## 📘 Estudando Dev Web(Front-End)
-## 📚 HTML5 / CSS3 / Javascript
-## ❤ Apaixonado por Games
-</div>
+## <p>Olá 👋 Me chamo Ítalo Braga e estou começando nesse mundo do Desenvolvimento Web(Front-End).</p>
+## <p>📘 Estudando Dev Web(Front-End)</p>
+## <p>📚 HTML5 / CSS3 / Javascript</p>
+## <p>❤ Apaixonado por Games</p>
+
 <div align="center">
   <a href="https://github.com/itaalobraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itaalobraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
