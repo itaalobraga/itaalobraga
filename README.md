@@ -3,8 +3,6 @@
  - ### 📘 Estudando Dev Web(Front-End)
  - ### 📚 HTML5 / CSS3 / Javascript
  - ### ❤ Apaixonado por Games
-   
-  ##
 
 <div align="center">
   <a href="https://github.com/itaalobraga">
