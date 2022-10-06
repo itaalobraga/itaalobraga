@@ -1,8 +1,4 @@
- # Olá 👋 Me chamo Ítalo Braga e estou começando nesse mundo do Desenvolvimento Web(Front-End).
-
- - ### 📘 Estudando Dev Web(Front-End)
- - ### 📚 HTML5 / CSS3 / Javascript
- - ### ❤ Apaixonado por Games
+ # Olá 👋.
 
 <div align="center">
   <a href="https://github.com/itaalobraga">
