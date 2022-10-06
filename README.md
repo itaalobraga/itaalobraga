@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    👋 Olá, seja bem-vindo(a) ao meu perfil! =) <br>
+    \\👋 Olá, seja bem-vindo(a) ao meu perfil! =) <br>
   </samp>
 </p>
 
