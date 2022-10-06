@@ -1,4 +1,8 @@
- # Olá 👋.
+<p align="center">
+  <samp>
+    👋 Olá, seja bem-vindo(a) ao meu perfil! =)
+  </samp>
+</p>
 
 <div align="center">
   <a href="https://github.com/itaalobraga">
