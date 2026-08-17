@@ -11,6 +11,8 @@ Desenvolvedor full stack de Presidente Epitácio, São Paulo.
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF)
 ![Expo](https://img.shields.io/badge/Expo-20232A?style=flat-square&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 <br/>
 
