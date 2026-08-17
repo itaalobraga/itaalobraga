@@ -1,6 +1,6 @@
 ### Olá, me chamo Ítalo 👋
 
-Desenvolvedor front-end de Presidente Epitácio, São Paulo.
+Desenvolvedor full stack de Presidente Epitácio, São Paulo.
 
 <br/>
 
